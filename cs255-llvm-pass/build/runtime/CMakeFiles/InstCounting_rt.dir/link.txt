@@ -1,0 +1,2 @@
+/usr/bin/ar qc libInstCounting_rt.a  CMakeFiles/InstCounting_rt.dir/InstCounting.c.o
+/usr/bin/ranlib libInstCounting_rt.a

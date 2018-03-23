@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared  -o libNatLoopPass.so CMakeFiles/NatLoopPass.dir/NatLoop.cpp.o  -L/LLVM_ROOT/build/./lib 

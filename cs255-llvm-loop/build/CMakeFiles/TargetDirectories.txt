@@ -1,0 +1,8 @@
+/cs255-llvm-loop/build/CMakeFiles/edit_cache.dir
+/cs255-llvm-loop/build/CMakeFiles/rebuild_cache.dir
+/cs255-llvm-loop/build/lib/CMakeFiles/edit_cache.dir
+/cs255-llvm-loop/build/lib/CMakeFiles/rebuild_cache.dir
+/cs255-llvm-loop/build/lib/CMakeFiles/NatLoopPass.dir
+/cs255-llvm-loop/build/runtime/CMakeFiles/edit_cache.dir
+/cs255-llvm-loop/build/runtime/CMakeFiles/rebuild_cache.dir
+/cs255-llvm-loop/build/runtime/CMakeFiles/InstCounting_rt.dir

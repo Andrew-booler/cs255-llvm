@@ -1,0 +1,8 @@
+/cs255-llvm-pass/build/CMakeFiles/edit_cache.dir
+/cs255-llvm-pass/build/CMakeFiles/rebuild_cache.dir
+/cs255-llvm-pass/build/lib/CMakeFiles/edit_cache.dir
+/cs255-llvm-pass/build/lib/CMakeFiles/rebuild_cache.dir
+/cs255-llvm-pass/build/lib/CMakeFiles/InstCounterPass.dir
+/cs255-llvm-pass/build/runtime/CMakeFiles/edit_cache.dir
+/cs255-llvm-pass/build/runtime/CMakeFiles/rebuild_cache.dir
+/cs255-llvm-pass/build/runtime/CMakeFiles/InstCounting_rt.dir
