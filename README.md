@@ -1,5 +1,11 @@
 # cs255-docker-llvm #
 This repositorary is my course project for <b>2018 Spring - [CS255/455 Software Analysis and Improvments](https://roclocality.org/2018/01/11/cs-255-455-spring-2018/)</b> LLVM Project. It contains the docker with Ubuntu `16.04` and LLVM/Clang `3.9.1` and my codes. 
+Please install the Docker and read descriptions in ~/Reports before running them.
+
+# list of assignments #
+llvm-pass: add a welcome information at the entry of the program and count the instructions in the program.
+llvm-loop: count and display all the loops in the program.
+
 
 Here is the official guide about how to install docker on different operating systems. [Install Docker](https://docs.docker.com/docker-for-mac/install/)
 
