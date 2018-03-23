@@ -32,7 +32,9 @@ A step-by-step tutorial for building an out-of-source LLVM pass based on Adrian 
   $ make
   ```
   
-To test whether you build success or not, please `cd` to the `test` directory and type `make check` in the command line.
+To test whether you build success or not, please `cd` to the `test` directory and change the name of one of the 'Makefile*' files to 'Makefile' and then type `make check` in the command line.
+Makefile1 uses 'test.c' as the test case, and Makefile2 for 'mytest.c', Makefile3 for mytest1.c.
+
 
 ## Build a LLVM pass ##
 After finish implementing your function pass, you can rebuild your function pass by repeating the procedure introduced in the previous session(JUST type `make` under build directory is fine). Also, if you want to see what the IR code looks like, you can type `make ir` in the `test` directory. Then, you'll see `test.bc.opt.ll` file in the directory. These file contains the human readable IR code for your test program. 

@@ -33,6 +33,7 @@ A step-by-step tutorial for building an out-of-source LLVM pass based on Adrian 
   ```
   
 To test whether you build success or not, please `cd` to the `test` directory and type `make check` in the command line.
+The 'Makefile' is for my own test case (qitest.c). To test on the other test cases substitue all the 'qitest' words in Makefile for 'test' or 'mytest'
 If you build your pass template correct, you'll see the following output:
 ```bash
 /LLVM_ROOT/build/bin/clang -O0 -c -emit-llvm test.c -o test.bc
