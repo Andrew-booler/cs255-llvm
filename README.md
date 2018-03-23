@@ -3,7 +3,7 @@ This repositorary is my course project for <b>2018 Spring - [CS255/455 Software 
 Please install the Docker and read descriptions in ~/Reports before running them.
 
 # list of assignments #
-llvm-pass: add a welcome information at the entry of the program and count the instructions in the program.
+llvm-pass: add a welcome information at the entry of the program and count the instructions in the program.   
 llvm-loop: count and display all the loops in the program.
 
 
