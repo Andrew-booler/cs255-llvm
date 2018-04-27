@@ -1,0 +1,18 @@
+#define NA 100
+#define NB 100
+#define NC  48
+
+void test() {
+	int a[NA];
+	int temp, last;
+	int i = 0;
+
+	for (i = 0; i < NA; ++i)
+	{
+	  last = NA - i;
+	  temp = a[i];
+	  a[i] = a[last];
+	  a[last] = temp; 
+	}
+
+}
